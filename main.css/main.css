@@ -201,8 +201,6 @@ background-color: transparent;
   .txt-1 p, h1, h2 {
     padding: 0rem;
     width: 27.5rem;
-    background-color: #000;
-    opacity: 0.7;
     margin: 7px;
     
 }
@@ -210,8 +208,6 @@ background-color: transparent;
   .txt-1 p, h1, h2 {
     padding: 0rem;
     width: 18rem;
-    background-color: #000;
-    opacity: 0.7;
     margin: 5px;
   } 
 }
@@ -279,7 +275,6 @@ li img:hover{
   font-size: .99rem;
   color:#fff;
   background-color: #2dd318;
-  opacity: .8;
   border-radius: 7px;
   text-align: center;
   padding: 3px;
@@ -291,7 +286,6 @@ li img:hover{
   font-size: .80rem;
   color:#fff;
   background-color: #2dd318;
-  opacity: .8;
   border-radius: 7px;
   text-align: center;
   padding: 3px;
